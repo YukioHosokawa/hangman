@@ -1,0 +1,2 @@
+# test
+n = int(input())
